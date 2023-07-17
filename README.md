@@ -10,7 +10,7 @@
 
 5.Display month name using When
 
-6. By using a user defined function perform all arithmetic operations.
+6.By using a user defined function perform all arithmetic operations.
 
 7.Find the factorial of number by recursion. Explain "tailrec" keyword.
 
