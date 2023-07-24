@@ -9,16 +9,8 @@ fun main(){
     var h : Short=12;
     var i : Byte=123;
 
-    println("Integer value : $a")
-    println("String value :$b")
-    println("Float value :$c")
-    println("Char value :$d")
-    println("Boolean value :$e")
-    println("Double value :$f")
-    println("Long value :$g")
-    println("Short value :$h")
-    println("Byte value :$i")
-
+    println("Enr_no : 21012011096 ")
+    println("Integer : $a\nString : $b\nFloat :$c\nChar : $d\nBoolean : $e\nDouble : $f\nLong : $g\nShort : $h\nByte : $i")
 
 
 }

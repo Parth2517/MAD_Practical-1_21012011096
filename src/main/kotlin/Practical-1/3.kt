@@ -1,5 +1,5 @@
 fun main(){
-
+    println("Enr_no : 21012011096 ")
     println("Enter your Enr no :")
     var a=readLine()
     println("Enter your Name :")
